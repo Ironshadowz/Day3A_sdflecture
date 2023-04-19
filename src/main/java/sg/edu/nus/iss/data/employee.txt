@@ -1,0 +1,4 @@
+staffNo, fullName, department, role, emailAddress, salary
+123,John,123,Customer Service,JohnW@gmail.com,10000,
+222,Wick,222,IT Service,Wicked@gmail.com,30000,
+432,Mary,432,Room Service,MaryM@gmail.com,31000,
